@@ -4,3 +4,14 @@
 .sub-heading-color{
     color: rgb(29, 63, 211);
 }
+hr{
+    margin-top: 60px;
+    margin-bottom: 10px;
+}
+a{
+    text-decoration: none;
+    color: rgb(12, 12, 110);
+}
+*{
+    margin-left: 20px;
+}
